@@ -32,7 +32,7 @@
     "url": "https://appsandbox.therminer.com/",
     "icon": "https://icons.duckduckgo.com/ip3/appsandbox.therminer.com.ico",
     "slug": "therminer-sandbox-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -44,6 +44,7 @@
     "timeMonth": 1028,
     "timeYear": 828,
     "dailyMinutesDown": {
+      "2024-11-26": 0,
       "2024-10-24": 30,
       "2024-10-15": 20,
       "2024-10-03": 19,
