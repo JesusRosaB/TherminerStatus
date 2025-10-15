@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.therminer.com.ico",
     "slug": "therminer-app",
     "status": "down",
-    "uptime": "48.95%",
+    "uptime": "48.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "18.06%",
-    "time": 812,
+    "uptimeYear": "17.80%",
+    "time": 813,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 854,
+    "timeYear": 830,
     "dailyMinutesDown": {
-      "2025-10-14": 45,
+      "2025-10-15": 47,
+      "2025-10-14": 1440,
       "2025-10-13": 1440,
       "2025-10-12": 1440,
       "2025-10-11": 1440,
@@ -317,8 +318,7 @@
       "2024-12-20": 1440,
       "2024-12-19": 1332,
       "2024-10-27": 47,
-      "2024-10-24": 30,
-      "2024-10-15": 21
+      "2024-10-24": 30
     }
   },
   {
@@ -327,18 +327,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/appsandbox.therminer.com.ico",
     "slug": "therminer-sandbox-app",
     "status": "down",
-    "uptime": "49.03%",
+    "uptime": "48.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "18.07%",
-    "time": 855,
+    "uptimeYear": "17.79%",
+    "time": 856,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 907,
+    "timeYear": 911,
     "dailyMinutesDown": {
-      "2025-10-14": 45,
+      "2025-10-15": 47,
+      "2025-10-14": 1440,
       "2025-10-13": 1440,
       "2025-10-12": 1440,
       "2025-10-11": 1440,
@@ -639,8 +640,7 @@
       "2024-12-20": 1440,
       "2024-12-19": 1332,
       "2024-11-26": 89,
-      "2024-10-24": 30,
-      "2024-10-15": 20
+      "2024-10-24": 30
     }
   }
 ]
