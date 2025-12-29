@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.therminer.com.ico",
     "slug": "therminer-app",
     "status": "down",
-    "uptime": "43.41%",
+    "uptime": "43.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 858,
+    "time": 860,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-28": 60,
+      "2025-12-29": 58,
+      "2025-12-28": 1440,
       "2025-12-27": 1440,
       "2025-12-26": 1440,
       "2025-12-25": 1440,
@@ -379,8 +380,7 @@
       "2025-01-02": 1440,
       "2025-01-01": 1440,
       "2024-12-31": 1440,
-      "2024-12-30": 1440,
-      "2024-12-29": 1440
+      "2024-12-30": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/appsandbox.therminer.com.ico",
     "slug": "therminer-sandbox-app",
     "status": "down",
-    "uptime": "43.48%",
+    "uptime": "43.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 929,
+    "time": 932,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-28": 60,
+      "2025-12-29": 58,
+      "2025-12-28": 1440,
       "2025-12-27": 1440,
       "2025-12-26": 1440,
       "2025-12-25": 1440,
@@ -763,8 +764,7 @@
       "2025-01-02": 1440,
       "2025-01-01": 1440,
       "2024-12-31": 1440,
-      "2024-12-30": 1440,
-      "2024-12-29": 1440
+      "2024-12-30": 1440
     }
   }
 ]
